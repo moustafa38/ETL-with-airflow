@@ -18,7 +18,7 @@ Objective: The primary aim is to automate the extraction, transformation, and lo
 
 ## Project Stages:
 
-**1- Data Extraction: 
+**1- Data Extraction:**
 
 * Extract data from  2 sources ( postgres - csv files )
 
@@ -30,6 +30,6 @@ Objective: The primary aim is to automate the extraction, transformation, and lo
 
 * Create 3 tables in postgresql  
 
-**4- Loading data into postgresql 
+**4- Loading data into postgresql**
 
 
